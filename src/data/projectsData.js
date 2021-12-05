@@ -14,6 +14,7 @@ import redCache from '../assets/svg/projects/red-cache.svg'
 import redAudio from '../assets/svg/projects/red-audio.svg'
 import redLog from '../assets/svg/projects/red-log.svg'
 import redZarinpal from '../assets/svg/projects/zarinpal-red.svg'
+import redTwitch from '../assets/svg/projects/twitch.svg'
 
 export const projectsData = [
     {
@@ -27,12 +28,12 @@ export const projectsData = [
     },
     {
         id: 2,
-        projectName: 'SteamLib',
-        projectDesc: 'a Steam Library using steamApiKey and SteamID with official Steam API Address',
-        tags: ['Node.js', 'Javascript', 'API'],
-        code: 'https://github.com/EhsanFox/SteamLib',
-        demo: 'https://www.npmjs.com/package/SteamLib',
-        image: redSteam
+        projectName: 'Media Streamer',
+        projectDesc: 'Stream to any streaming platform such as YouTube/Twitch/Facebook and other RTMP Servers with an easy-to-use class',
+        tags: ['Node.js', 'Javascript', 'API', 'RTMP'],
+        code: 'https://github.com/EhsanFox/MediaStreamer',
+        demo: 'https://www.npmjs.com/package/MediaStreamer',
+        image: redTwitch
     },
     {
         id: 3,
@@ -87,6 +88,15 @@ export const projectsData = [
         code: 'https://github.com/SeTar-Bot/zarinpal',
         demo: 'https://www.npmjs.com/package/@setar/zarinpal',
         image: redZarinpal
+    },
+    {
+        id: 9,
+        projectName: 'SteamLib',
+        projectDesc: 'a Steam Library using steamApiKey and SteamID with official Steam API Address',
+        tags: ['Node.js', 'Javascript', 'API'],
+        code: 'https://github.com/EhsanFox/SteamLib',
+        demo: 'https://www.npmjs.com/package/SteamLib',
+        image: redSteam
     },
 ]
 
