@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d276d4c9.chunk.css",
-    "main.js": "/static/js/main.83e14e11.chunk.js",
-    "main.js.map": "/static/js/main.83e14e11.chunk.js.map",
+    "main.js": "/static/js/main.5ab792bd.chunk.js",
+    "main.js.map": "/static/js/main.5ab792bd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.124c39ff.js",
     "runtime-main.js.map": "/static/js/runtime-main.124c39ff.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -86,6 +86,7 @@
     "static/media/greenTheme-girl.95973dba.svg": "/static/media/greenTheme-girl.95973dba.svg",
     "static/media/hadi.66e081d5.svg": "/static/media/hadi.66e081d5.svg",
     "static/media/haxe.10a910ff.svg": "/static/media/haxe.10a910ff.svg",
+    "static/media/hesam.e6ed7111.svg": "/static/media/hesam.e6ed7111.svg",
     "static/media/html.6a342d61.svg": "/static/media/html.6a342d61.svg",
     "static/media/illustrator.33feff48.svg": "/static/media/illustrator.33feff48.svg",
     "static/media/ionic.d2050eeb.svg": "/static/media/ionic.d2050eeb.svg",
@@ -141,6 +142,7 @@
     "static/media/swift.a030128a.svg": "/static/media/swift.a030128a.svg",
     "static/media/tailwind.254c4865.svg": "/static/media/tailwind.254c4865.svg",
     "static/media/tensorflow.6d6f2e37.svg": "/static/media/tensorflow.6d6f2e37.svg",
+    "static/media/twitch.21983c27.svg": "/static/media/twitch.21983c27.svg",
     "static/media/typescript.31f8fee8.svg": "/static/media/typescript.31f8fee8.svg",
     "static/media/unity.ad58069d.svg": "/static/media/unity.ad58069d.svg",
     "static/media/vitejs.b99f0b09.svg": "/static/media/vitejs.b99f0b09.svg",
@@ -159,6 +161,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.9da1c536.chunk.js",
     "static/css/main.d276d4c9.chunk.css",
-    "static/js/main.83e14e11.chunk.js"
+    "static/js/main.5ab792bd.chunk.js"
   ]
 }
