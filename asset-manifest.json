@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d276d4c9.chunk.css",
-    "main.js": "/static/js/main.2250eaf5.chunk.js",
-    "main.js.map": "/static/js/main.2250eaf5.chunk.js.map",
+    "main.js": "/static/js/main.83e14e11.chunk.js",
+    "main.js.map": "/static/js/main.83e14e11.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.124c39ff.js",
     "runtime-main.js.map": "/static/js/runtime-main.124c39ff.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -109,6 +109,7 @@
     "static/media/opencv.0f128460.svg": "/static/media/opencv.0f128460.svg",
     "static/media/orangeTheme-boy.0ebb8c72.svg": "/static/media/orangeTheme-boy.0ebb8c72.svg",
     "static/media/orangeTheme-girl.d0ad58be.svg": "/static/media/orangeTheme-girl.d0ad58be.svg",
+    "static/media/parsa.e39d34fe.svg": "/static/media/parsa.e39d34fe.svg",
     "static/media/photoshop.1114b31f.svg": "/static/media/photoshop.1114b31f.svg",
     "static/media/php.8132ef91.svg": "/static/media/php.8132ef91.svg",
     "static/media/picsart.f869489b.svg": "/static/media/picsart.f869489b.svg",
@@ -158,6 +159,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.9da1c536.chunk.js",
     "static/css/main.d276d4c9.chunk.css",
-    "static/js/main.2250eaf5.chunk.js"
+    "static/js/main.83e14e11.chunk.js"
   ]
 }
