@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d276d4c9.chunk.css",
-    "main.js": "/static/js/main.44ed25ac.chunk.js",
-    "main.js.map": "/static/js/main.44ed25ac.chunk.js.map",
+    "main.js": "/static/js/main.a15c55b0.chunk.js",
+    "main.js.map": "/static/js/main.a15c55b0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.124c39ff.js",
     "runtime-main.js.map": "/static/js/runtime-main.124c39ff.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -22,7 +22,7 @@
     "static/media/aws.602a4539.svg": "/static/media/aws.602a4539.svg",
     "static/media/azure.a4419965.svg": "/static/media/azure.a4419965.svg",
     "static/media/blender.cedc2ef8.svg": "/static/media/blender.cedc2ef8.svg",
-    "static/media/blueTheme-boy.6db475a2.svg": "/static/media/blueTheme-boy.6db475a2.svg",
+    "static/media/blueTheme-boy.5c2a41dc.svg": "/static/media/blueTheme-boy.5c2a41dc.svg",
     "static/media/blueTheme-girl.cdd9e559.svg": "/static/media/blueTheme-girl.cdd9e559.svg",
     "static/media/bootstrap.62a0b221.svg": "/static/media/bootstrap.62a0b221.svg",
     "static/media/boy1.f9c177c8.svg": "/static/media/boy1.f9c177c8.svg",
@@ -36,7 +36,7 @@
     "static/media/capacitorjs.c666684f.svg": "/static/media/capacitorjs.c666684f.svg",
     "static/media/coffeescript.8fe7b44f.svg": "/static/media/coffeescript.8fe7b44f.svg",
     "static/media/contactsBlack.f0e90a47.svg": "/static/media/contactsBlack.f0e90a47.svg",
-    "static/media/contactsBlue.e1eaa251.svg": "/static/media/contactsBlue.e1eaa251.svg",
+    "static/media/contactsBlue.4f7ce7cd.svg": "/static/media/contactsBlue.4f7ce7cd.svg",
     "static/media/contactsGreen.92b0fba8.svg": "/static/media/contactsGreen.92b0fba8.svg",
     "static/media/contactsOrange.d6d44661.svg": "/static/media/contactsOrange.d6d44661.svg",
     "static/media/contactsPink.4590c2e5.svg": "/static/media/contactsPink.4590c2e5.svg",
@@ -51,7 +51,7 @@
     "static/media/django.afdfcef7.svg": "/static/media/django.afdfcef7.svg",
     "static/media/docker.a6221ab3.svg": "/static/media/docker.a6221ab3.svg",
     "static/media/eduBlack.c0056615.svg": "/static/media/eduBlack.c0056615.svg",
-    "static/media/eduBlue.45efb703.svg": "/static/media/eduBlue.45efb703.svg",
+    "static/media/eduBlue.268042cd.svg": "/static/media/eduBlue.268042cd.svg",
     "static/media/eduGreen.99260f3f.svg": "/static/media/eduGreen.99260f3f.svg",
     "static/media/eduImgBlack.ff0d484e.svg": "/static/media/eduImgBlack.ff0d484e.svg",
     "static/media/eduImgWhite.2d359981.svg": "/static/media/eduImgWhite.2d359981.svg",
@@ -119,7 +119,7 @@
     "static/media/placeholder.302a44d5.png": "/static/media/placeholder.302a44d5.png",
     "static/media/postgresql.e0d12878.svg": "/static/media/postgresql.e0d12878.svg",
     "static/media/premierepro.9a2377cd.svg": "/static/media/premierepro.9a2377cd.svg",
-    "static/media/profile.d8a5700e.png": "/static/media/profile.d8a5700e.png",
+    "static/media/profile.6a40b545.jpg": "/static/media/profile.6a40b545.jpg",
     "static/media/purpleTheme-boy.4c49d453.svg": "/static/media/purpleTheme-boy.4c49d453.svg",
     "static/media/purpleTheme-girl.aee31e12.svg": "/static/media/purpleTheme-girl.aee31e12.svg",
     "static/media/python.f1e3b348.svg": "/static/media/python.f1e3b348.svg",
@@ -161,6 +161,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.9da1c536.chunk.js",
     "static/css/main.d276d4c9.chunk.css",
-    "static/js/main.44ed25ac.chunk.js"
+    "static/js/main.a15c55b0.chunk.js"
   ]
 }
