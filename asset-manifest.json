@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d276d4c9.chunk.css",
-    "main.js": "/static/js/main.c6ae7594.chunk.js",
-    "main.js.map": "/static/js/main.c6ae7594.chunk.js.map",
+    "main.js": "/static/js/main.3dff0cb2.chunk.js",
+    "main.js.map": "/static/js/main.3dff0cb2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.124c39ff.js",
     "runtime-main.js.map": "/static/js/runtime-main.124c39ff.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -131,7 +131,6 @@
     "static/media/red-log.02507234.svg": "/static/media/red-log.02507234.svg",
     "static/media/redTheme-boy.60bb4bef.svg": "/static/media/redTheme-boy.60bb4bef.svg",
     "static/media/redTheme-girl.5dd7fec6.svg": "/static/media/redTheme-girl.5dd7fec6.svg",
-    "static/media/resume.37022b2f.pdf": "/static/media/resume.37022b2f.pdf",
     "static/media/ruby.5128f251.svg": "/static/media/ruby.5128f251.svg",
     "static/media/selenium.53d9c9ec.svg": "/static/media/selenium.53d9c9ec.svg",
     "static/media/sketch.5d66c218.svg": "/static/media/sketch.5d66c218.svg",
@@ -161,6 +160,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.9da1c536.chunk.js",
     "static/css/main.d276d4c9.chunk.css",
-    "static/js/main.c6ae7594.chunk.js"
+    "static/js/main.3dff0cb2.chunk.js"
   ]
 }
